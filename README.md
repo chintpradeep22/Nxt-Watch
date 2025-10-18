@@ -6,7 +6,7 @@ Nxt Watch is a **React-based video streaming web application** that allows users
 
 ## 🌐 Live Demo
 
-🔗 **Website**: [Nxt Watch](https://pradeep22nxtwatch.ccbp.tech/)  
+🔗 **Website**: [Nxt Watch](https://pradeep22watch.ccbp.tech/)  
 
 ---
 
