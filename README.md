@@ -10,6 +10,14 @@ Nxt Watch is a **React-based video streaming web application** that allows users
 
 ---
 
+## 🔑 Demo Login Credentials  
+
+To explore the app, use the following demo credentials:  
+
+- **Username / Email**: `rahul`  
+- **Password**: `rahul@2021`
+---
+
 ## ⚙️ Features
 
 ### 👥 User Features
